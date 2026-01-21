@@ -1,7 +1,5 @@
 <div align="center">
 
-![GigaHertz Legacy Banner](https://raw.githubusercontent.com/GigaHertzLegacy-SpiderX/GigaHertzLegacy-SpiderX/main/gh.png)
-
 # 🕷️ SpiderX | GigaHertz Legacy
 
 ### Python Developer | Security Researcher | Tool Creator
